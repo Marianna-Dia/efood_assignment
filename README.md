@@ -23,3 +23,4 @@ This is the script that give us the percentage of orders do the top 10 users of 
 This is the python code through which we segment existing customers based on their frequency and order value 
 in order to target the most valuable group for a Marketing campaign about “Breakfast” cuisine_parent.
 In the code there are all the instructions needed to run the code.
+
